@@ -1,0 +1,2 @@
+# javasc
+first javascript project
